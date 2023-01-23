@@ -672,3 +672,13 @@ footer .footer .footer-bottom {
         margin-bottom: 20px;
     }
 }
+
+@media (max-width: 460px) {
+    .about .about-buttons a {
+        border-radius: 30px;
+        padding: .7rem 1rem;
+        margin: 0 .5rem;
+        margin-top: 20px;
+        font-size: 15px;
+    }
+}
